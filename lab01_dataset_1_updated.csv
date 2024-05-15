@@ -1,0 +1,17 @@
+Mood,Effort,Score_46.0,Score_69.5,Score_81.5,Output
+Happy,Low,True,True,True,Yes
+Happy,High,True,True,True,Yes
+Sad,Low,True,True,True,Yes
+Neutral,Medium,False,True,True,No
+Neutral,High,False,True,True,No
+Happy,High,False,True,True,No
+Happy,Low,False,True,True,No
+Sad,Low,False,True,True,No
+Sad,Medium,False,False,True,Yes
+Sad,High,False,False,True,Yes
+Neutral,Medium,False,False,True,Yes
+Sad,Low,False,False,True,Yes
+Neutral,Low,False,False,False,No
+Happy,Medium,False,False,False,No
+Sad,High,False,False,False,No
+Sad,Medium,False,False,False,No
